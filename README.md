@@ -5,7 +5,7 @@ This repository holds the data for the _Topic Modelling in Python: Unsupervised 
 The tutorial is available here: https://ourcodingclub.github.io/2018/12/10/topic-modelling-python.html
 
 We would love to hear your feedback on the tutorial: 
-https://www.surveymonkey.com/r/XD85MW5
+https://www.surveymonkey.co.uk/r/7C5N3QV
 
 Check out https://ourcodingclub.github.io/workshop/ to learn how you can get involved!
 
